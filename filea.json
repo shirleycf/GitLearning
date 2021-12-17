@@ -1,0 +1,33 @@
+{
+  "moduleName": "cgjh2",
+  "version": "20181226144255",
+  "arr": [
+    {
+      "id": "001804",
+      "name": "cgjh2/zjlx",
+      "url": "file://localhost/appres/cgjh2/index.html#/zjlx?useTheme=1",
+      "description": "资金流向"
+    },
+    {
+      "id": "001805",
+      "name": "cgjh2/jcxh",
+      "url": "file://localhost/appres/cgjh2/index.html#/jcxh",
+      "description": "决策信号"
+    },
+    {
+      "id": "001806",
+      "name": "cgjh2/jcxhsm",
+      "url": "file://localhost/appres/cgjh2/index.html#/jcxhsm?useTheme=1",
+      "description": "决策信号说明"
+    },
+    {
+      "id": "001807",
+      "name": "cgjh2/main",
+      "url": "https://cgjh.newone.com.cn/p/index",
+      "permission": [
+        "Permission_Trade_UnLocked"
+      ],
+      "description": "财管计划主页"
+    }
+  ]
+}
